@@ -9,7 +9,7 @@
 
 **[1. thaer day1]**
 
-  * [1.1.introduce yourself](https://)
+  * [1.1.class01](https://thaer123.github.io/Reading-notes/class-01)
   
 
 **[2. day2]**
