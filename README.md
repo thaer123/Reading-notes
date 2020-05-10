@@ -10,11 +10,12 @@
 **[1. thaer day1]**
 
   * [1.1.class01](https://thaer123.github.io/Reading-notes/class-01)
+  * [1.1.class02](https://thaer123.github.io/Reading-notes/class-02)
   
 
 **[2. day2]**
 
-  * [2.1.a](https://)
+  * [2.1.a]()
   * [2.2. b]( https://)
   
   
