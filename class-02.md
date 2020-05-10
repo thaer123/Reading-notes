@@ -97,4 +97,61 @@ p {
 color: #665544;}
 
   
+ # From the Duckett JS book:
+ ### Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
  
+ **STATEMENTS**
+ var today= new Date{);
+var hourNow = today.getHours{) ;
+var greeting;
+if (hourNow > 18) {
+greeting= 'Good evening';
+else if (hourNow > 12) {
+greeting= 'Good afternoon';
+else if (hourNow > O) {
+greeting 'Good morning';
+else {
+greeting 'Welcome';
+document.write(greeting) ;
+
+**WHAT IS A VARIABLE?**
+c02/example.html
+<!DOCTYPE html>
+<html>
+<head>
+1111., .• ,
+<title>JavaScript &amp; jQuery - Chapter 2: Basic JavaScript Instructions -
+Example</ title>
+<link rel="stylesheet" href="css/c02.css" />
+</head>
+<body>
+<hl>Elderflower</hl>
+<div id="content">
+<div id="greeting" class="message">Hello! </div>
+<table>
+<tr>
+<td>Custom sign: </ td>
+<td id="userSign"></ td>
+</ tr>
+<tr>
+<td>Total tiles: </td>
+<td id="ti l es "></td>
+</tr>
+<tr>
+<td>Subtotal: </td>
+<td id="subTotal">$</ td>
+</ tr>
+<tr>
+<td>Shipping: </ td>
+<td id="shipping">$</td>
+</tr>
+<tr>
+<td>Grand total: </td>
+<td id="grandTotal ">S</td>
+</tr>
+</ table>
+<a href="D" class="action">Pay Now</ a>
+</div>
+<script src="js/ example.js"></ script>
+</body>
+</html>
