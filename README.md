@@ -15,7 +15,7 @@
 
 **[2. day2]**
 
-  * [2.1.a]()
+  * [2.1.class03](https://thaer123.github.io/Reading-notes/class-03)
   * [2.2. b]( https://)
   
   
