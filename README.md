@@ -16,12 +16,12 @@
 **[2. day2]**
 
   * [2.1.class03](https://thaer123.github.io/Reading-notes/class-03)
-  * [2.2. b](https://thaer123.github.io/Reading-notes/class-04)
+  * [2.2. class04](https://thaer123.github.io/Reading-notes/class-04)
   
   
   **[3. day3]**
   
-   * [3.1.c](https://)
+   * [3.1.class05](https://https://thaer123.github.io/Reading-notes/class-05)
   * [2.2. d]( https://)
   
   **[4. day4]**
