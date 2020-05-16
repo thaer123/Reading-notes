@@ -22,7 +22,7 @@
   **[3. day3]**
   
    * [3.1.class05](https://https://thaer123.github.io/Reading-notes/class-05)
-  * [2.2. d]( https://)
+  * [2.2.class06]( https://https://https://thaer123.github.io/Reading-notes/class-06)
   
   **[4. day4]**
 
