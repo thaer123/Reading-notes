@@ -31,8 +31,8 @@
 
 **[5. day5]**
 
-  * [5.1. f](https://)
-  * [5.2. g]( https://)
+  * [5.1. f]()
+  * [5.2. g]( https://chttps://thaer123.github.io/Reading-notes/class-08)
   
   
   **[6. day6]**
