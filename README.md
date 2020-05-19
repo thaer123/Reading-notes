@@ -32,7 +32,7 @@
 **[5. day5]**
 
   * [5.1. class08](https://thaer123.github.io/Reading-notes/class-08)
-  * [5.2. class09]( chttps://thaer123.github.io/Reading-notes/class-09)
+  * [5.2. class09](https://thaer123.github.io/Reading-notes/class-09)
   
   
   **[6. day6]**
