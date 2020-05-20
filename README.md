@@ -37,7 +37,7 @@
   
   **[6. day6]**
   
-   * [6.1.h](https://)
+   * [6.1.class10](https://thaer123.github.io/Reading-notes/class-10)
   * [6.2. i]( https://)
   
   **[7. day7]**
