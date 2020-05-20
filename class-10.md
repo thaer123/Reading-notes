@@ -26,5 +26,5 @@ The order in which statements are executed can be complex;
 some tasks cannot complete until another statement or function has been run:
 <p>
  <img src="https://www.oreilly.com/library/view/javascript-and-jquery/9781118531648/images/p452-001.jpg" width="350" title="hover text">
-
+<br>
 This script above creates a greeting message, then ...
