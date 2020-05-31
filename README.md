@@ -42,7 +42,7 @@
   
   **[7. day7]**
 
-  * [7.1.j](https://)
+  * [7.1.class12](https://thaer123.github.io/Reading-notes/class-12)
   
 
 **[8. day8]**
