@@ -47,7 +47,7 @@
 
 **[8. day8]**
 
-  * [8.1.k](https://)
+  * [8.1.class13](https://thaer123.github.io/Reading-notes/class-13)
   * [8.2. l]( https://)
   
   
